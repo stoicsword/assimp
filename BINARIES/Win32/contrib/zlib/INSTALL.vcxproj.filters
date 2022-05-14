@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\BINARIES\Win32\CMakeFiles\2ef5cbff84d6773dcf8f0bf16e0e0ed9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3799C127-D2A6-33CC-A34C-EB0898152AE2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

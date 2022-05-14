@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\CompareDump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\ImageExtractor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\WriteDump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\Export.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\khoow\Documents\GAM300-350\GAM300-350\andromeda\dependencies\assimp\tools\assimp_cmd\assimp_cmd.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B4EB6F53-CD13-3B24-8FAB-09ACBB9AE4D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9B4F48BA-A8D2-3322-B630-E3C434BB3F8B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

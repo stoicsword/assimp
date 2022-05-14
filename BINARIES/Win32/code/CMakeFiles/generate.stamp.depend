@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/cmake-modules/FindRT.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/code/CMakeLists.txt
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/FindPackageMessage.cmake

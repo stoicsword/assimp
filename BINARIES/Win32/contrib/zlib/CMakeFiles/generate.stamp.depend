@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/BINARIES/Win32/CMakeFiles/CheckTypeSize/OFF64_T.c
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/contrib/zlib/CMakeLists.txt
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/contrib/zlib/zconf.h.cmakein
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/assimp/contrib/zlib/zlib.pc.cmakein
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckFunctionExists.c
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckFunctionExists.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckIncludeFile.c.in
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckIncludeFile.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckIncludeFileCXX.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckTypeSize.c.in
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/CheckTypeSize.cmake
+C:/Users/khoow/Documents/GAM300-350/GAM300-350/andromeda/dependencies/cmake-3.21.2-windows-x86_64/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake
